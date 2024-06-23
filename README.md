@@ -1,6 +1,5 @@
 # PersonalBudgetingApp
 
-## Overview
 The Personal Budgeting App is a comprehensive solution to manage user accounts, income, expenses, budgets, and financial goals. Built with ASP.NET Core and Angular/React, it offers a robust backend, a user-friendly frontend, and secure data handling.
 
 ## Features
