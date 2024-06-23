@@ -4,6 +4,7 @@ The Personal Budgeting App is a comprehensive solution to manage user accounts, 
 
 ## Features
 **User Management:** Register, login, and manage user accounts.
+shdbsh
 **Budget Management:** Create, update, and track budgets.
 **Transaction Logging:** Log and categorize income and expenses.
 **Financial Goals:** Set and track financial goals.
