@@ -15,7 +15,7 @@ The Personal Budgeting App is a comprehensive solution to manage user accounts, 
 ## Technologies
 **Backend:** ASP.NET Core
 **Frontend:** Angular/React
-**Database:** SQL (SQL Server/MySQL/PostgreSQL)
+**Database:** MySQL
 **ORM:** Entity Framework Core
 **API Testing:** Postman, curl
 **CI/CD:** GitHub Actions/Azure DevOps
