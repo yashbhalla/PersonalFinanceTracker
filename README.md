@@ -1,26 +1,30 @@
-# PersonalBudgetingApp
+# Personal Finance Tracker
 
-The Personal Budgeting App is a comprehensive solution to manage user accounts, income, expenses, budgets, and financial goals. Built with ASP.NET Core and Angular/React, it offers a robust backend, a user-friendly frontend, and secure data handling.
+## Overview
+
+**Personal Finance Tracker** is a cross-platform desktop application built using **.NET MAUI**. It helps users manage their personal finances by tracking incomes, expenses, creating budgets, and generating financial reports. The app includes user authentication and account management features, allowing users to securely manage their finances. Future enhancements will include AI-driven expense analysis and insights.
 
 ## Features
-- **User Management:** Register, login, and manage user accounts.
-- **Budget Management:** Create, update, and track budgets.
-- **Transaction Logging:** Log and categorize income and expenses.
-- **Financial Goals:** Set and track financial goals.
-- **Data Visualization:** Visualize financial data and budgets.
-- **Notifications:** Receive budget alerts.
-- **Security:** User authentication and encryption for sensitive data.
-- **Automated Deployment:** CI/CD pipelines, Docker containerization, and Kubernetes deployment.
 
-## Technologies
-- **Backend:** ASP.NET Core
-- **Frontend:** Angular/React
-- **Database:** MySQL
-- **ORM:** Entity Framework Core
-- **API Testing:** Postman, curl
-- **CI/CD:** GitHub Actions/Azure DevOps
-- **Containerization:** Docker
-- **Orchestration:** Kubernetes
+- **Income Tracking**: Record and manage various income sources.
+- **Expense Tracking**: Categorize and track expenses with full CRUD functionality (Add, Delete, Edit income and expenses).
+- **Budgeting**: Create and manage budgets to monitor spending habits.
+- **Financial Reports**: Generate and view detailed financial reports.
+- **User Authentication**: Register and log in securely to manage personal finances.
+- **Account Management**: Users can manage their account settings and preferences.
+
+### Future Scope
+
+- **AI-Driven Insights**: Implement AI algorithms for expense analysis and personalized insights.
+
+## Technology Stack
+
+- **.NET MAUI**: Cross-platform framework for building native applications (macOS, iOS, Windows, etc.).
+- **XAML**: For designing the user interface.
+- **SQLite**: Lightweight database for local data storage.
+- **Entity Framework Core**: ORM for database interactions.
+- **RESTful APIs**: For integrating external data and services.
+- **MVVM Architecture**: Ensures separation of concerns between UI and business logic.
 
 ## Contributing
 1. Fork the repository.
